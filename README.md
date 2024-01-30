@@ -59,7 +59,7 @@
 ![raspberry pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) 
 ![micro:bit](https://img.shields.io/badge/Micro:bit-0085CA?style=for-the-badge&logo=micro:bit&logoColor=white)
 
-##web Browsers
+## web Browsers
 ![chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) 
 ![brave](https://img.shields.io/badge/Brave-FF6D00?style=for-the-badge&logo=brave&logoColor=white) 
 ![opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white) 
